@@ -1,1 +1,1 @@
-<?php include_once('Bootstrapkuy.html');
+<?php include_once('Boorstrapkuy.html');
